@@ -80,7 +80,7 @@ class Ingredient
 
     public function getCreatedAt(): ?\DateTimeImmutable
     {
-        return $this->createdAt;
+        return $this->createdAt; 
     }
 
     public function setCreatedAt(\DateTimeImmutable $createdAt): self

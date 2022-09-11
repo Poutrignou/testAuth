@@ -14,7 +14,7 @@ class AppFixtures extends Fixture
      *  @var Generator
      */
 
-    //import class sur Generator avec un faker generator (clik droit sur le mot generator)
+    //import class sur Generator avec un faker generator ! (clik droit sur le mot generator)
     private Generator $faker;
 
         public function __construct()
